@@ -26,7 +26,7 @@ TypeScript 提供了非常多的编译选项，但是官方文档对每一项的
 │   ├── foo.js
 │   └── index.ts
 ├── package.json
-└── tsconfig.json
+└── vercel.json
 ```
 
 ```bash
@@ -37,7 +37,7 @@ TypeScript 提供了非常多的编译选项，但是官方文档对每一项的
 │   ├── foo.js
 │   └── index.ts
 ├── package.json
-└── tsconfig.json
+└── vercel.json
 ```
 
 ## allowSyntheticDefaultImports

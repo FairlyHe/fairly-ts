@@ -4,14 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b354c0a-8f33-4cc7-b5d8-c7bc118a46c9" name="更改" comment="fix:">
+    <list default="true" id="2b354c0a-8f33-4cc7-b5d8-c7bc118a46c9" name="更改" comment="fix:&#10;更新图片文件错误问题">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/engineering/lint.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/engineering/lint.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/engineering/compiler-options.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/engineering/compiler-options.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,7 +78,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715849756657</updated>
-      <workItem from="1715849757714" duration="25824000" />
+      <workItem from="1715849757714" duration="27398000" />
     </task>
     <task id="LOCAL-00001" summary="fix:">
       <option name="closed" value="true" />
@@ -81,14 +88,25 @@
       <option name="project" value="LOCAL" />
       <updated>1716170961294</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix:&#10;更新图片文件错误问题">
+      <option name="closed" value="true" />
+      <created>1716182507936</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716182507936</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="fix:" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix:" />
+    <MESSAGE value="fix:&#10;更新图片文件错误问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix:&#10;更新图片文件错误问题" />
   </component>
 </project>
