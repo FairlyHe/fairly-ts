@@ -5,6 +5,10 @@
     "docs:preview": "vitepress preview docs"
   },
   "devDependencies": {
-    "vitepress": "^1.1.4"
+    "vitepress": "^1.1.4",
+    "vue": "^3.3.9"
+  },
+  "dependencies": {
+    "gitalk": "^1.8.0"
   }
 }
