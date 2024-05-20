@@ -1,17 +1,13 @@
 {
-  "builds": [
+  "headers": [
     {
-      "src": "docs/.vitepress/**/*",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": ".vitepress/dist"
-      }
-    }
-  ],
-  "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/docs/.vitepress/dist/$1"
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "max-age=31536000, immutable"
+        }
+      ]
     }
   ]
 }
