@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b354c0a-8f33-4cc7-b5d8-c7bc118a46c9" name="更改" comment="">
+    <list default="true" id="2b354c0a-8f33-4cc7-b5d8-c7bc118a46c9" name="更改" comment="fix:">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/engineering/lint.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/engineering/lint.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +71,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715849756657</updated>
-      <workItem from="1715849757714" duration="24118000" />
+      <workItem from="1715849757714" duration="25824000" />
     </task>
+    <task id="LOCAL-00001" summary="fix:">
+      <option name="closed" value="true" />
+      <created>1716170961294</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716170961294</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix:" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix:" />
   </component>
 </project>
